@@ -20,7 +20,7 @@
 <p><strong>☁️ Run in Cloud Shell:</strong></p>
 
 ```bash
-curl -LO raw.githubusercontent.com/TechXNinjas/5th-lab-task2-1st-game/refs/heads/main/Classify%20Text%20into%20Categories%20with%20the%20Natural%20Language%20API/TechXNinjas.sh
+curl -LO raw.githubusercontent.com/TechXNinjas/5th-lab-task2-1st-game/refs/heads/main/TechXNinjas.sh
 sudo chmod +x TechXNinjas.sh
 ./TechXNinjas.sh
 ```
